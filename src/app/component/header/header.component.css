@@ -1,0 +1,10 @@
+.logo{
+    color: orange;
+}
+
+a:hover{
+    color: orange;
+}
+nav{
+    cursor: pointer;
+}
